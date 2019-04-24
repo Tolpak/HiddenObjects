@@ -132,7 +132,34 @@
 		AA6ADCE2226B7D930019742D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6ADCE1226B7D930019742D /* main.m */; };
 		AA6ADCE5226B7D930019742D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6ADCE4226B7D930019742D /* AppDelegate.m */; };
 		AA6ADCE8226B7D930019742D /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6ADCE7226B7D930019742D /* HelloWorldLayer.m */; };
-		AA6ADCEB226B7D930019742D /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6ADCEA226B7D930019742D /* IntroLayer.m */; };
+		AA6ADD25226B941A0019742D /* config.xml in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD24226B941A0019742D /* config.xml */; };
+		AA6ADD40226BA0570019742D /* _room.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD27226BA0570019742D /* _room.png */; };
+		AA6ADD41226BA0570019742D /* astrolabe_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD28226BA0570019742D /* astrolabe_1.png */; };
+		AA6ADD42226BA0570019742D /* bat_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD29226BA0570019742D /* bat_1.png */; };
+		AA6ADD43226BA0570019742D /* bat_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD2A226BA0570019742D /* bat_2.png */; };
+		AA6ADD44226BA0570019742D /* catalog_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD2B226BA0570019742D /* catalog_1.png */; };
+		AA6ADD45226BA0570019742D /* comet_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD2C226BA0570019742D /* comet_1.png */; };
+		AA6ADD46226BA0570019742D /* comet_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD2D226BA0570019742D /* comet_2.png */; };
+		AA6ADD47226BA0570019742D /* constellation_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD2E226BA0570019742D /* constellation_1.png */; };
+		AA6ADD48226BA0570019742D /* constellation_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD2F226BA0570019742D /* constellation_2.png */; };
+		AA6ADD49226BA0570019742D /* constellation_3.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD30226BA0570019742D /* constellation_3.png */; };
+		AA6ADD4A226BA0570019742D /* crystal_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD31226BA0570019742D /* crystal_1.png */; };
+		AA6ADD4B226BA0570019742D /* crystal_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD32226BA0570019742D /* crystal_2.png */; };
+		AA6ADD4C226BA0570019742D /* globe_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD33226BA0570019742D /* globe_1.png */; };
+		AA6ADD4D226BA0570019742D /* Icon_ in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD34226BA0570019742D /* Icon_ */; };
+		AA6ADD4E226BA0570019742D /* lens_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD35226BA0570019742D /* lens_1.png */; };
+		AA6ADD4F226BA0570019742D /* lens_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD36226BA0570019742D /* lens_2.png */; };
+		AA6ADD50226BA0570019742D /* meteorite_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD37226BA0570019742D /* meteorite_1.png */; };
+		AA6ADD51226BA0570019742D /* microcosm_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD38226BA0570019742D /* microcosm_1.png */; };
+		AA6ADD52226BA0570019742D /* nebula_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD39226BA0570019742D /* nebula_1.png */; };
+		AA6ADD53226BA0570019742D /* nebula_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD3A226BA0570019742D /* nebula_2.png */; };
+		AA6ADD54226BA0570019742D /* prism_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD3B226BA0570019742D /* prism_1.png */; };
+		AA6ADD55226BA0570019742D /* ruler_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD3C226BA0570019742D /* ruler_1.png */; };
+		AA6ADD56226BA0570019742D /* scorpion_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD3D226BA0570019742D /* scorpion_1.png */; };
+		AA6ADD57226BA0570019742D /* scorpion_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD3E226BA0570019742D /* scorpion_2.png */; };
+		AA6ADD58226BA0570019742D /* valve_1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6ADD3F226BA0570019742D /* valve_1.png */; };
+		AA6E4862226CAAAC005AD35A /* art.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6E4861226CAAAC005AD35A /* art.png */; };
+		AA91A881226E00E40004C22D /* XmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = AA91A880226E00E40004C22D /* XmlParser.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -396,8 +423,35 @@
 		AA6ADCE4226B7D930019742D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AA6ADCE6226B7D930019742D /* HelloWorldLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldLayer.h; sourceTree = "<group>"; };
 		AA6ADCE7226B7D930019742D /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
-		AA6ADCE9226B7D930019742D /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
-		AA6ADCEA226B7D930019742D /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		AA6ADD24226B941A0019742D /* config.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = config.xml; sourceTree = "<group>"; };
+		AA6ADD27226BA0570019742D /* _room.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _room.png; sourceTree = "<group>"; };
+		AA6ADD28226BA0570019742D /* astrolabe_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = astrolabe_1.png; sourceTree = "<group>"; };
+		AA6ADD29226BA0570019742D /* bat_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bat_1.png; sourceTree = "<group>"; };
+		AA6ADD2A226BA0570019742D /* bat_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bat_2.png; sourceTree = "<group>"; };
+		AA6ADD2B226BA0570019742D /* catalog_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catalog_1.png; sourceTree = "<group>"; };
+		AA6ADD2C226BA0570019742D /* comet_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comet_1.png; sourceTree = "<group>"; };
+		AA6ADD2D226BA0570019742D /* comet_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comet_2.png; sourceTree = "<group>"; };
+		AA6ADD2E226BA0570019742D /* constellation_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = constellation_1.png; sourceTree = "<group>"; };
+		AA6ADD2F226BA0570019742D /* constellation_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = constellation_2.png; sourceTree = "<group>"; };
+		AA6ADD30226BA0570019742D /* constellation_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = constellation_3.png; sourceTree = "<group>"; };
+		AA6ADD31226BA0570019742D /* crystal_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crystal_1.png; sourceTree = "<group>"; };
+		AA6ADD32226BA0570019742D /* crystal_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crystal_2.png; sourceTree = "<group>"; };
+		AA6ADD33226BA0570019742D /* globe_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globe_1.png; sourceTree = "<group>"; };
+		AA6ADD34226BA0570019742D /* Icon_ */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Icon_; sourceTree = "<group>"; };
+		AA6ADD35226BA0570019742D /* lens_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lens_1.png; sourceTree = "<group>"; };
+		AA6ADD36226BA0570019742D /* lens_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lens_2.png; sourceTree = "<group>"; };
+		AA6ADD37226BA0570019742D /* meteorite_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meteorite_1.png; sourceTree = "<group>"; };
+		AA6ADD38226BA0570019742D /* microcosm_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microcosm_1.png; sourceTree = "<group>"; };
+		AA6ADD39226BA0570019742D /* nebula_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nebula_1.png; sourceTree = "<group>"; };
+		AA6ADD3A226BA0570019742D /* nebula_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nebula_2.png; sourceTree = "<group>"; };
+		AA6ADD3B226BA0570019742D /* prism_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prism_1.png; sourceTree = "<group>"; };
+		AA6ADD3C226BA0570019742D /* ruler_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ruler_1.png; sourceTree = "<group>"; };
+		AA6ADD3D226BA0570019742D /* scorpion_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scorpion_1.png; sourceTree = "<group>"; };
+		AA6ADD3E226BA0570019742D /* scorpion_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scorpion_2.png; sourceTree = "<group>"; };
+		AA6ADD3F226BA0570019742D /* valve_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = valve_1.png; sourceTree = "<group>"; };
+		AA6E4861226CAAAC005AD35A /* art.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = art.png; sourceTree = "<group>"; };
+		AA91A87F226E00E40004C22D /* XmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XmlParser.h; sourceTree = "<group>"; };
+		AA91A880226E00E40004C22D /* XmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XmlParser.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -460,8 +514,9 @@
 				AA6ADCE4226B7D930019742D /* AppDelegate.m */,
 				AA6ADCE6226B7D930019742D /* HelloWorldLayer.h */,
 				AA6ADCE7226B7D930019742D /* HelloWorldLayer.m */,
-				AA6ADCE9226B7D930019742D /* IntroLayer.h */,
-				AA6ADCEA226B7D930019742D /* IntroLayer.m */,
+				AA91A87F226E00E40004C22D /* XmlParser.h */,
+				AA91A880226E00E40004C22D /* XmlParser.m */,
+				AA6ADD24226B941A0019742D /* config.xml */,
 				AA6ADB6C226B7D920019742D /* Resources */,
 				AA6ADB86226B7D920019742D /* libs */,
 				AA6ADCDF226B7D930019742D /* Supporting Files */,
@@ -472,6 +527,7 @@
 		AA6ADB6C226B7D920019742D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				AA6ADD26226BA0570019742D /* assets */,
 				AA6ADB6D226B7D920019742D /* Default.png */,
 				AA6ADB6F226B7D920019742D /* Default-Landscape~ipad.png */,
 				AA6ADB71226B7D920019742D /* fps_images.png */,
@@ -832,6 +888,40 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		AA6ADD26226BA0570019742D /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				AA6E4861226CAAAC005AD35A /* art.png */,
+				AA6ADD27226BA0570019742D /* _room.png */,
+				AA6ADD28226BA0570019742D /* astrolabe_1.png */,
+				AA6ADD29226BA0570019742D /* bat_1.png */,
+				AA6ADD2A226BA0570019742D /* bat_2.png */,
+				AA6ADD2B226BA0570019742D /* catalog_1.png */,
+				AA6ADD2C226BA0570019742D /* comet_1.png */,
+				AA6ADD2D226BA0570019742D /* comet_2.png */,
+				AA6ADD2E226BA0570019742D /* constellation_1.png */,
+				AA6ADD2F226BA0570019742D /* constellation_2.png */,
+				AA6ADD30226BA0570019742D /* constellation_3.png */,
+				AA6ADD31226BA0570019742D /* crystal_1.png */,
+				AA6ADD32226BA0570019742D /* crystal_2.png */,
+				AA6ADD33226BA0570019742D /* globe_1.png */,
+				AA6ADD34226BA0570019742D /* Icon_ */,
+				AA6ADD35226BA0570019742D /* lens_1.png */,
+				AA6ADD36226BA0570019742D /* lens_2.png */,
+				AA6ADD37226BA0570019742D /* meteorite_1.png */,
+				AA6ADD38226BA0570019742D /* microcosm_1.png */,
+				AA6ADD39226BA0570019742D /* nebula_1.png */,
+				AA6ADD3A226BA0570019742D /* nebula_2.png */,
+				AA6ADD3B226BA0570019742D /* prism_1.png */,
+				AA6ADD3C226BA0570019742D /* ruler_1.png */,
+				AA6ADD3D226BA0570019742D /* scorpion_1.png */,
+				AA6ADD3E226BA0570019742D /* scorpion_2.png */,
+				AA6ADD3F226BA0570019742D /* valve_1.png */,
+			);
+			name = assets;
+			path = Resources/assets;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -887,19 +977,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA6ADD55226BA0570019742D /* ruler_1.png in Resources */,
+				AA6ADD54226BA0570019742D /* prism_1.png in Resources */,
+				AA6ADD44226BA0570019742D /* catalog_1.png in Resources */,
+				AA6ADD53226BA0570019742D /* nebula_2.png in Resources */,
+				AA6ADD43226BA0570019742D /* bat_2.png in Resources */,
+				AA6ADD40226BA0570019742D /* _room.png in Resources */,
+				AA6ADD25226B941A0019742D /* config.xml in Resources */,
 				AA6ADB7C226B7D920019742D /* Icon-Small.png in Resources */,
+				AA6ADD4D226BA0570019742D /* Icon_ in Resources */,
+				AA6E4862226CAAAC005AD35A /* art.png in Resources */,
+				AA6ADD4F226BA0570019742D /* lens_2.png in Resources */,
 				AA6ADB70226B7D920019742D /* Default-Landscape~ipad.png in Resources */,
 				AA6ADB80226B7D920019742D /* Icon.png in Resources */,
 				AA6ADB7A226B7D920019742D /* Icon-Small-50.png in Resources */,
+				AA6ADD42226BA0570019742D /* bat_1.png in Resources */,
 				AA6ADB7E226B7D920019742D /* Icon-Small@2x.png in Resources */,
 				AA6ADB82226B7D920019742D /* Icon@2x.png in Resources */,
 				AA6ADB6E226B7D920019742D /* Default.png in Resources */,
 				AA6ADB85226B7D920019742D /* iTunesArtwork in Resources */,
+				AA6ADD58226BA0570019742D /* valve_1.png in Resources */,
+				AA6ADD4A226BA0570019742D /* crystal_1.png in Resources */,
 				AA6ADCC3226B7D930019742D /* ChangeLog in Resources */,
+				AA6ADD45226BA0570019742D /* comet_1.png in Resources */,
+				AA6ADD56226BA0570019742D /* scorpion_1.png in Resources */,
 				AA6ADB76226B7D920019742D /* fps_images-ipadhd.png in Resources */,
+				AA6ADD57226BA0570019742D /* scorpion_2.png in Resources */,
 				AA6ADB72226B7D920019742D /* fps_images.png in Resources */,
+				AA6ADD4C226BA0570019742D /* globe_1.png in Resources */,
 				AA6ADB74226B7D920019742D /* fps_images-hd.png in Resources */,
 				AA6ADB78226B7D920019742D /* Icon-72.png in Resources */,
+				AA6ADD46226BA0570019742D /* comet_2.png in Resources */,
+				AA6ADD50226BA0570019742D /* meteorite_1.png in Resources */,
+				AA6ADD48226BA0570019742D /* constellation_2.png in Resources */,
+				AA6ADD41226BA0570019742D /* astrolabe_1.png in Resources */,
+				AA6ADD4B226BA0570019742D /* crystal_2.png in Resources */,
+				AA6ADD47226BA0570019742D /* constellation_1.png in Resources */,
+				AA6ADD4E226BA0570019742D /* lens_1.png in Resources */,
+				AA6ADD51226BA0570019742D /* microcosm_1.png in Resources */,
+				AA6ADD52226BA0570019742D /* nebula_1.png in Resources */,
+				AA6ADD49226BA0570019742D /* constellation_3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -917,6 +1034,7 @@
 				AA6ADC8D226B7D930019742D /* CGPointExtension.m in Sources */,
 				AA6ADB90226B7D920019742D /* CCActionCatmullRom.m in Sources */,
 				AA6ADCDB226B7D930019742D /* vec3.c in Sources */,
+				AA91A881226E00E40004C22D /* XmlParser.m in Sources */,
 				AA6ADBD9226B7D920019742D /* CCLabelBMFont.m in Sources */,
 				AA6ADC60226B7D930019742D /* CCGLView.m in Sources */,
 				AA6ADBC1226B7D920019742D /* ccDeprecated.m in Sources */,
@@ -966,7 +1084,6 @@
 				AA6ADCD1226B7D930019742D /* plane.c in Sources */,
 				AA6ADBA5226B7D920019742D /* CCActionPageTurn3D.m in Sources */,
 				AA6ADCE2226B7D930019742D /* main.m in Sources */,
-				AA6ADCEB226B7D930019742D /* IntroLayer.m in Sources */,
 				AA6ADCC9226B7D930019742D /* matrix.c in Sources */,
 				AA6ADCD5226B7D930019742D /* ray2.c in Sources */,
 				AA6ADBF2226B7D920019742D /* CCParallaxNode.m in Sources */,
@@ -1077,7 +1194,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1098,7 +1215,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -1123,6 +1240,7 @@
 				AA6ADCF0226B7D930019742D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

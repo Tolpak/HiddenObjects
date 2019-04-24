@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[XmlParser parser:foundCharacters:]:XmlParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "0x17e99958:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "        self.contentSize.width&#10;        self.contentSize.width&#10;        self.contentSize.width&#10;        self.contentSize.width&#10;        self.contentSize.width&#10;        self.contentSize.width&#10;self.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmlParser parser:didStartElement:namespaceURI:qualifiedName:attributes:]:XmlParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.objects.lastObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HelloWorldLayer boundLayerPos:]:HelloWorldLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "screenRect.origin.x * self.zoom">
+            </PersistentString>
+            <PersistentString
+               value = "[self boundingBox]">
+            </PersistentString>
+            <PersistentString
+               value = "background.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.scale">
+            </PersistentString>
+            <PersistentString
+               value = "background.contentSize.width * self.scale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HelloWorldLayer pinchZoomWithMovedTouch:]:HelloWorldLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self boundingBox]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HelloWorldLayer ccTouchesMoved:withEvent:]:HelloWorldLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmlParser parser:didEndElement:namespaceURI:qualifiedName:]:XmlParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HelloWorldLayer ccTouchesBegan:withEvent:]:HelloWorldLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "[self boundingBox]">
+            </PersistentString>
+            <PersistentString
+               value = "self.scale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HelloWorldLayer init]:HelloWorldLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "background.scale">
+            </PersistentString>
+            <PersistentString
+               value = "background.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.scale">
+            </PersistentString>
+            <PersistentString
+               value = "self.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "background.position">
+            </PersistentString>
+            <PersistentString
+               value = "[array[rand] valueForKey:@&quot;fileName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
